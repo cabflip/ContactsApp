@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contacts App</string>
+    <string name="main_activity_title">Contacts</string>
+    <string name="favorites">Favorites</string>
+    <string name="no_contact_found">No contact was found. \nTap to try again.</string>
+    <string name="transition_contact_image">transition-contact-image</string>
+    <string name="transition_contact_name">transition-contact-name</string>
+    <string name="transition_contact_company">transition-contact-company</string>
+</resources>
